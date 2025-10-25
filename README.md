@@ -37,6 +37,7 @@ Windows: venv\Scripts\activate
 macOS/Linux: source venv/bin/activate
 
 Install Dependencies
+
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn prophet
 
 🚀 How to Run
@@ -44,7 +45,6 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn prophet
 Open the notebook:
 
 jupyter notebook main.ipynb
-
 
 Or run via command line:
 
