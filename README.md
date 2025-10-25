@@ -43,7 +43,7 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn prophet
 
 Open the notebook:
 
-jupyter notebook PHARMA_SALES_A035_A033_A027_A048.ipynb
+jupyter notebook main.ipynb
 
 
 Or run via command line:
